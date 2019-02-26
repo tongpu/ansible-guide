@@ -307,7 +307,7 @@ Templates
 =========
 
 Within this directory, template files are stored with a `.j2` extension as the
-files are threatend as `Jinja2 <http://jinja.pocoo.org/>`_ templates. This
+files are treated as `Jinja2 <http://jinja.pocoo.org/>`_ templates. This
 allows to customize files.
 Templates should have a comment with ``{{ ansible_managed }}`` as the very
 beginning. This generates a comment header inside the file, warning a
