@@ -277,6 +277,7 @@ Meta information of a role are defined here. I.e. requirements for a role.
     - role: pki
 
   galaxy_info:
+    role_name: ssh
     author: 'Adfinis SyGroup AG'
     description: 'Install and manage ssh and sshd'
     company: 'Adfinis SyGroup AG'
